@@ -1,0 +1,49 @@
+/* _content/Masa.Alert.Web.Admin/Components/JsonPre.razor.rz.scp.css */
+.json-pre[b-64v1uuli5m] {
+    padding: 5px;
+    color: #A3AED0 !important;
+}
+
+    .json-pre[b-64v1uuli5m]  .string {
+        color: green;
+    }
+
+    .json-pre[b-64v1uuli5m]  .number {
+        color: darkorange;
+    }
+
+    .json-pre[b-64v1uuli5m]  .boolean {
+        color: blue;
+    }
+
+    .json-pre[b-64v1uuli5m]  .null {
+        color: #A3AED0;
+    }
+
+    .json-pre[b-64v1uuli5m]  .key {
+        color: #F178B6;
+    }
+/* _content/Masa.Alert.Web.Admin/Pages/AlarmHistory/Modules/StatusTimeline.razor.rz.scp.css */
+.status-time-line[b-nrpbhvc1lv] {
+    margin-left: -430px;
+}
+
+    .status-time-line[b-nrpbhvc1lv]  .m-timeline-item__dot {
+        box-shadow: none;
+    }
+
+    .status-time-line[b-nrpbhvc1lv]  .m-timeline-item__dot {
+        background: transparent !important;
+    }
+
+    .status-time-line[b-nrpbhvc1lv]  .m-timeline-item__inner-dot {
+        background-color: transparent !important;
+    }
+
+    .status-time-line[b-nrpbhvc1lv]  .m-icon {
+        background: #ffff !important;
+    }
+/* _content/Masa.Alert.Web.Admin/Shared/MainLayout.razor.rz.scp.css */
+.main-layout[b-d8ezpgjjp1]  .app-bar .m-toolbar__content {
+    padding: 0 !important;
+}

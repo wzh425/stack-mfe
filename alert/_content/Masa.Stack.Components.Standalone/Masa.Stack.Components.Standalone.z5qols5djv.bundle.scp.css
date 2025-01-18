@@ -1,0 +1,24 @@
+/* _content/Masa.Stack.Components.Standalone/Actions/SActionsMenu.razor.rz.scp.css */
+.actions-menu[b-d9xscltbhl] {
+  padding: 8px 0;
+  min-width: 36px;
+  width: 180px;
+}
+
+.actions-menu[b-d9xscltbhl]  > .m-divider__wrapper > .m-divider {
+  margin: 4px 0;
+}
+
+.actions-menu[b-d9xscltbhl]  > * {
+  width: 100%;
+}
+
+.actions-menu[b-d9xscltbhl]  > .m-btn {
+  overflow: hidden;
+  justify-content: start;
+  border-radius: 0;
+}
+
+.actions-menu[b-d9xscltbhl]  > .m-btn > .m-btn__content {
+  text-transform: capitalize;
+}

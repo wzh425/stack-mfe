@@ -1,0 +1,120 @@
+/* _content/Masa.Stack.Components/Pages/NotificationCenters/NotificationDetail.razor.rz.scp.css */
+.detail-box[b-lptlo79m7r] {
+    width: 100%;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0px 6px 35px rgba(0, 0, 0, 0.02);
+    overflow: hidden;
+}
+
+    .detail-box .content[b-lptlo79m7r] {
+        position: relative;
+        margin-top: 30px;
+        color: #333;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+        .detail-box .content[b-lptlo79m7r]  p {
+            margin: 10px 0;
+        }
+
+        .detail-box .content[b-lptlo79m7r]  img {
+            max-width: 100%;
+        }
+/* _content/Masa.Stack.Components/Pages/NotificationCenters/NotificationRight.razor.rz.scp.css */
+.message-right[b-wlwhtm89f8]  .m-text-field--outlined.m-input--dense .m-label {
+    top: 10px !important;
+}
+/* _content/Masa.Stack.Components/Shared/IntegrationComponents/DateTime/SDateTimeRangePicker.razor.rz.scp.css */
+.date-time-range-picker__content[b-td1dtsa8sm]  .m-date-picker-table {
+    height: unset;
+    padding: 0;
+}
+
+    .date-time-range-picker__content[b-td1dtsa8sm]  .m-date-picker-table tr {
+        height: unset;
+    }
+
+.date-time-range-picker__content[b-td1dtsa8sm]  .m-card__actions {
+    padding-bottom: 0;
+}
+
+.datetimetext[b-td1dtsa8sm] {
+    width: calc(50% - 20px);
+    padding: 0;
+    font-family: 'Roboto';
+    line-height: 21px;
+    color: #485585;
+    font-size: 14px;
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+}
+/* _content/Masa.Stack.Components/Shared/IntegrationComponents/DateTime/SDateTimeRangeToolbar.razor.rz.scp.css */
+[b-vj0sge7g61] .quickchange {
+    padding: 0 4px !important
+}
+/* _content/Masa.Stack.Components/Shared/IntegrationComponents/DateTime/STimeSelector.razor.rz.scp.css */
+.time-selector[b-alvklnojs9] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.time-selector[b-alvklnojs9]  .m-autocomplete.m-select.m-input--is-focused input {
+    min-width: unset;
+}
+/* _content/Masa.Stack.Components/Shared/IntegrationComponents/SEmptyPlaceholder.razor.rz.scp.css */
+.s-empty-placeholder[b-yibxusv3fd] {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #485585 !important;
+}
+/* _content/Masa.Stack.Components/Shared/IntegrationComponents/SGroupBox.razor.rz.scp.css */
+.m-label--border fieldset[b-075s7067he] {
+    border-collapse: collapse;
+    border-color: #E2E7F4;
+    border-style: solid;
+    border-width: 1px;
+    transition-duration: 0.15s;
+    transition-property: color;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition: border 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
+    border-radius: 4px;
+    color: rgba(0, 0, 0, 0.38);
+    padding: 10px;
+}
+
+
+.m-label--border legend[b-075s7067he] {
+    line-height: 11px;
+    padding: 0;
+    margin-left:2px;
+    color:#7681AB;
+    transition: width 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
+}
+/* _content/Masa.Stack.Components/Shared/IntegrationComponents/SSheetDialog.razor.rz.scp.css */
+.m-sheet-dialog-overlay[b-74nvrx4168] {
+    background-color: #141726 !important;
+    opacity: 0.8;
+    transition: .2s ease opacity;
+}
+
+    .m-sheet-dialog-overlay:hover[b-74nvrx4168] {
+        background-color: #141726 !important;
+        opacity: 0.9;
+    }
+
+    .m-sheet-dialog-overlay[b-74nvrx4168]  .close-icon {
+        border-radius: 50%;
+    }
+    
+    .m-sheet-dialog-overlay:hover[b-74nvrx4168]  .close-icon {
+        background: white;
+        border-radius: 50%;
+        color: #141726 !important;
+    }

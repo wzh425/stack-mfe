@@ -1,0 +1,61 @@
+/* _content/Masa.Auth.Web.Admin.Rcl/Pages/Logs/OperationLog.razor.rz.scp.css */
+[b-v8q3rmf98j] .s-auto-complete .m-input__control .m-input__slot {
+    min-height: inherit !important;
+}
+[b-v8q3rmf98j] .body.regular3--text {
+    line-height: 2.25rem !important;
+}
+/* _content/Masa.Auth.Web.Admin.Rcl/Pages/RolePermissions/Permissions/DccI18nConfiger.razor.rz.scp.css */
+[b-omcxoz8igq].i18n-configer .m-input__append-inner {
+    margin-left: 12px !important;
+}
+/* _content/Masa.Auth.Web.Admin.Rcl/Pages/RolePermissions/Permissions/Index.razor.rz.scp.css */
+.d-index-row[b-073156ni96]  .d-tabs .regular2--text {
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+    display: flex !important;
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.d-index-row[b-073156ni96]  .m-treeview .m-treeview-node__children .m-treeview-node:hover {
+    background: #F6F8FD !important;
+    border-radius: 8px !important;
+}
+
+.d-index-row[b-073156ni96]  .permission-name {
+    min-height: 48px !important;
+}
+
+.d-index-row[b-073156ni96]  .m-input__control {
+    min-height: 48px !important;
+}
+
+.d-index-row[b-073156ni96]  .m-input__slot {
+    min-height: 48px !important;
+}
+
+.d-index-row[b-073156ni96]  .card-title h6 {
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 30px !important;
+    letter-spacing: 0.01em !important;
+    color: #323D6F !important;
+}
+
+.d-index-row[b-073156ni96]  .prefix-mt-0 .m-text-field__prefix {
+  margin-top: 0px !important;
+}
+
+[b-073156ni96] .m-click-extend-item .m-input__prepend-inner {
+    padding-top: 5px;
+}
+/* _content/Masa.Auth.Web.Admin.Rcl/Pages/Subjects/Teams/AddSheet.razor.rz.scp.css */
+.m-stepper__wrapper.active[b-kbvk6m551i]{
+    height:100%;
+}
